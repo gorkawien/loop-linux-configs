@@ -1,0 +1,32 @@
+[Default Applications]
+application/octet-stream=mousepad.desktop
+application/pdf=qpdfview.desktop
+application/pdf=qpdfview.desktop
+application/x-gettext-translation=mousepad.desktop
+application/xml=mousepad.desktop
+application/x-wine-extension-ini=mousepad.desktop
+image/gif=ristretto.desktop;gimp.desktop
+image/gif=ristretto.desktop;gimp.desktop
+image/jpeg=ristretto.desktop;gimp.desktop
+image/png=ristretto.desktop;gimp.desktop
+text/plain=sublime_text.desktop
+video/mp4=mpv.desktop
+video/ogg=vlc.desktop
+video/x-flv=vlc.desktop
+video/x-ms-wmv=vlc.desktop
+video/x-ogm+ogg=vlc.desktop
+video/x-theora+ogg=vlc.desktop
+x-scheme-handler/etcher=balena-etcher-electron.desktop
+application/x-shellscript=sublime_text_3.desktop
+
+[Added Associations]
+text/plain=sublime_text_3.desktop;atom.desktop;sublime_text.desktop;
+application/x-shellscript=sublime_text_3.desktop;sublime_text.desktop;vim.desktop;
+application/xml=sublime_text.desktop;
+video/mp4=vlc.desktop;mpv.desktop;
+text/x-matlab=sublime_text_3.desktop;sublime_text.desktop;atom.desktop;
+application/x-theme=sublime_text.desktop;atom.desktop;
+text/markdown=sublime_text_3.desktop;
+application/pdf=wps-office-pdf.desktop;
+text/x-csrc=sublime_text_3.desktop;
+application/x-desktop=sublime_text_3.desktop;
